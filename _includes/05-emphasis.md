@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+:sparkles:
+**Genius is one percent inspiration, ninety-nine percent perspiration** _thomas edison_
+
+my some skills:
+* python programming
+* project management
+* working on project using github
+* solve problems
